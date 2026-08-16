@@ -45,7 +45,6 @@ Additional sources can be integrated through the modular `sources/` architecture
 ## 📋 Requirements
 
 * Python 3.x
-* Internet connection
 * Required Python packages
 * API credentials for sources that require authentication
 
