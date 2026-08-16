@@ -110,10 +110,6 @@ Replace `example.com` with the domain you are authorized to investigate.
 
 <img width="1081" height="477" alt="image" src="https://github.com/user-attachments/assets/77ba9e31-636b-44dc-b2fe-e7040e187a12" />
 
-```
-
-The tool associates discovered information with its corresponding source to make the results easier to analyze.
-
 ---
 
 ## 🧩 Modular Architecture
